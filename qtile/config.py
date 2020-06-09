@@ -61,11 +61,12 @@ keys = [
     Key([mod], "e", lazy.spawn('code-oss')),
 
     #dmenu
-    Key([mod], "d", lazy.spawn("dmenu_run -i -nb '#191919' -nf '#cccccc' -sb '#cccccc' -sf '#191919' -fn NotoMonoRegular:bold:pixelsize=14")),
+    Key([mod], "d", lazy.spawn("dmenu_run -i -nb '#191919' -nf '#9999ff' -sb '#9999ff' -sf '#191919' -fn NotoMonoRegular:bold:pixelsize=14")),
 
     # Toggle between different layouts as defined below
     Key([mod], "Tab", lazy.next_layout()),
     Key([mod], "q", lazy.window.kill()),
+    Key([mod], "f", lazy.window.fullscreen()),
 
     Key([mod, "control"], "r", lazy.restart()),
     Key([mod, "shift"], "x", lazy.shutdown()),
@@ -88,19 +89,11 @@ for i in groups:
     ])
 
 layouts = [
-    layout.Tile(border_focus="#9999ff", border_normal='#333333', border_width=2),
-    layout.Stack(num_stacks=2, border_focus="#9999ff", border_normal='#333333', border_width=2),
-    layout.Bsp(border_focus="#9999ff", border_normal='#333333', border_width=2),
-    layout.Max(border_focus="#9999ff", border_normal='#333333', fullscreen_border_width=2),
-    layout.Matrix(border_focus="#9999ff", border_normal='#333333', border_width=2),
-    # layout.Columns(),
-    # layout.Matrix(),
-    # layout.MonadTall(),
-    # layout.MonadWide(),
-    # layout.RatioTile(),
-    # layout.TreeTab(),
-    # layout.VerticalTile(),
-    # layout.Zoomy(),
+    layout.Tile(border_focus="#9999ff", border_normal='#333333', border_width=2, margin=5),
+    layout.Stack(num_stacks=2, border_focus="#9999ff", border_normal='#333333', border_width=2, margin=5),
+    layout.Bsp(border_focus="#9999ff", border_normal='#333333', border_width=2, margin=5),
+    layout.Max(border_focus="#9999ff", border_normal='#333333', fullscreen_border_width=2, margin=5),
+    layout.Matrix(border_focus="#9999ff", border_normal='#333333', border_width=2, margin=5),
 ]
 
 widget_defaults = dict(
@@ -112,18 +105,19 @@ extension_defaults = widget_defaults.copy()
 
 
 
-
+# status bar
 screens = [
     Screen(
         top=bar.Bar(
             [
-                widget.GroupBox(active = "#9999ff", inactive = '#ffffff', background = '#000000', this_current_screen_border = '#9999ff'),
+                widget.Sep(padding=3, linewidth=0),
+                widget.GroupBox(active = "#ffffff", inactive = '#333333', background = '#000000', this_current_screen_border = '#9999ff'),
                 widget.Prompt(),
                 widget.WindowName(foreground = '#9999ff'),
-                widget.TextBox("nuvallo", name="nuvallo", foreground = '#9999ff'),
+                widget.TextBox("Nuvallo", name="nuvallo", foreground = '#9999ff'),
                 widget.Sep(padding=10),
                 widget.TextBox('Battery: '),
-                widget.Battery(foreground = '#9999ff'),
+                widget.Battery(format="{percent:2.0%}", foreground = '#9999ff'),
                 widget.Sep(padding=10),
                 widget.TextBox('Volume: '),
                 widget.PulseVolume(foreground = '#9999ff'),
@@ -174,6 +168,9 @@ floating_layout = layout.Floating(float_rules=[
 ])
 auto_fullscreen = True
 focus_on_window_activation = "smart"
+
+def autostart():
+    lazy.spawn('xcompmgr')
 
 
 # XXX: Gasp! We're lying here. In fact, nobody really uses or cares about this
