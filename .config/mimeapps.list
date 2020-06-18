@@ -1,0 +1,5 @@
+[Added Associations]
+image/jpeg=code-oss.desktop;
+
+[Default Applications]
+x-scheme-handler/postman=Postman.desktop

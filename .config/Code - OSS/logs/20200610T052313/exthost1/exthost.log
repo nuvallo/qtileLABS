@@ -1,0 +1,26 @@
+[2020-06-10 05:23:15.174] [exthost] [info] extension host started
+[2020-06-10 05:23:15.196] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-06-10 05:23:15.196] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-06-10 05:23:15.198] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-06-10 05:23:15.198] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-06-10 05:23:15.209] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-06-10 05:23:15.209] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-06-10 05:23:15.224] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-06-10 05:23:15.224] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github-authentication/dist/extension.js
+[2020-06-10 05:23:15.229] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-06-10 05:23:15.229] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-06-10 05:23:15.231] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-06-10 05:23:15.231] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-06-10 05:23:15.232] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-06-10 05:23:15.232] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/vscode-account/dist/extension.js
+[2020-06-10 05:23:15.236] [exthost] [info] ExtensionService#_doActivateExtension deepcode.deepcode {"startup":true,"extensionId":{"value":"deepcode.deepcode","_lower":"deepcode.deepcode"},"activationEvent":"*"}
+[2020-06-10 05:23:15.236] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/nuvallo/.vscode-oss/extensions/deepcode.deepcode-2.1.1/out/extension.js
+[2020-06-10 05:23:15.293] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-06-10 05:23:15.293] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/dist/extension
+[2020-06-10 05:23:15.344] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-06-10 05:23:15.344] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/nuvallo/.vscode-oss/extensions/pkief.material-icon-theme-4.1.0/dist/extension
+[2020-06-10 05:23:15.355] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-06-10 05:23:15.355] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/nuvallo/.vscode-oss/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-06-10 05:23:15.723] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2020-06-10 05:23:15.723] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/nuvallo/.vscode-oss/extensions/vscodevim.vim-1.14.5/out/extension
+[2020-06-10 05:23:15.829] [exthost] [info] eager extensions activated

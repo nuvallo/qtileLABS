@@ -1,0 +1,14 @@
+2020/06/10-22:01:55.415 efb Reusing MANIFEST /home/nuvallo/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/06/10-22:01:55.416 efb Recovering log #36
+2020/06/10-22:01:55.419 efb Reusing old log /home/nuvallo/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/000036.log 
+2020/06/10-22:01:55.419 efb Delete type=2 #34
+2020/06/10-22:02:03.631 f84 Level-0 table #41: started
+2020/06/10-22:02:03.642 f84 Level-0 table #41: 110235 bytes OK
+2020/06/10-22:02:03.649 f84 Delete type=0 #36
+2020/06/10-22:02:03.649 f84 Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0d\x00\x00\x05' @ 17863 : 1
+2020/06/10-22:02:03.649 f84 Compacting 1@0 + 1@1 files
+2020/06/10-22:02:03.662 f84 Generated table #42@0: 6846 keys, 166310 bytes
+2020/06/10-22:02:03.662 f84 Compacted 1@0 + 1@1 files => 166310 bytes
+2020/06/10-22:02:03.668 f84 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/06/10-22:02:03.668 f84 Delete type=2 #41
+2020/06/10-22:02:03.668 f84 Manual compaction at level-0 from '\x00\x0d\x00\x00\x05' @ 17863 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,6 @@
+2020/06/10-06:02:34.894 1633 Reusing MANIFEST /home/nuvallo/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/10-06:02:34.894 1633 Recovering log #10
+2020/06/10-06:02:34.902 1633 Reusing old log /home/nuvallo/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000010.log 
+2020/06/10-06:02:40.878 1670 Level-0 table #14: started
+2020/06/10-06:02:40.952 1670 Level-0 table #14: 1456077 bytes OK
+2020/06/10-06:02:40.968 1670 Delete type=0 #10

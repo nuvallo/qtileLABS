@@ -27,10 +27,9 @@
 from libqtile.config import Key, Screen, Group, Drag, Click
 from libqtile.lazy import lazy
 from libqtile import layout, bar, widget
-
 from typing import List  # noqa: F401
 
-mod = "mod4"
+mod = "mod4" # Windows key
 
 keys = [
     # Switch between windows in current stack pane
@@ -43,15 +42,6 @@ keys = [
 
     # Switch window focus to other pane(s) of stack
     Key([mod], "space", lazy.layout.next()),
-
-    # Swap panes of split stack
-    Key([mod, "shift"], "space", lazy.layout.rotate()),
-
-    # Toggle between split and unsplit sides of stack.
-    # Split = all windows displayed
-    # Unsplit = 1 window displayed, like Max layout, but still with
-    # multiple stack panes
-    Key([mod, "shift"], "Return", lazy.layout.toggle_split()),
     
     # Window spawns
     Key([mod], "Return", lazy.spawn("st")),
@@ -88,12 +78,15 @@ for i in groups:
         # Key([mod, "shift"], i.name, lazy.window.togroup(i.name)),
     ])
 
+# colors
+colors = ['#008080', '#333333', '#FFA500', '#000000', '#F855B7', '#632249']
+
 layouts = [
-    layout.Tile(border_focus="#9999ff", border_normal='#333333', border_width=2, margin=5),
-    layout.Stack(num_stacks=2, border_focus="#9999ff", border_normal='#333333', border_width=2, margin=5),
-    layout.Bsp(border_focus="#9999ff", border_normal='#333333', border_width=2, margin=5),
-    layout.Max(border_focus="#9999ff", border_normal='#333333', fullscreen_border_width=2, margin=5),
-    layout.Matrix(border_focus="#9999ff", border_normal='#333333', border_width=2, margin=5),
+    layout.Tile(border_focus=colors[2], border_normal=colors[1], border_width=2, margin=5),
+    layout.Stack(num_stacks=2, border_focus=colors[2], border_normal=colors[1], border_width=2, margin=5),
+    layout.Bsp(border_focus=colors[2], border_normal=colors[1], border_width=2, margin=5),
+    layout.Max(border_focus=colors[2], border_normal=colors[1], fullscreen_border_width=2, margin=5),
+    layout.Matrix(border_focus=colors[2], border_normal=colors[1], border_width=2, margin=5),
 ]
 
 widget_defaults = dict(
@@ -110,26 +103,26 @@ screens = [
     Screen(
         top=bar.Bar(
             [
-                widget.Sep(padding=3, linewidth=0),
-                widget.GroupBox(active = "#ffffff", inactive = '#333333', background = '#000000', this_current_screen_border = '#9999ff'),
+                widget.Sep(padding=2, linewidth=0),
+                widget.GroupBox(active = colors[4], inactive = colors[0], background = colors[3], this_current_screen_border = colors[2]),
                 widget.Prompt(),
-                widget.WindowName(foreground = '#9999ff'),
-                widget.TextBox("Nuvallo", name="nuvallo", foreground = '#9999ff'),
-                widget.Sep(padding=10),
-                widget.TextBox('Battery: '),
-                widget.Battery(format="{percent:2.0%}", foreground = '#9999ff'),
-                widget.Sep(padding=10),
-                widget.TextBox('Volume: '),
-                widget.PulseVolume(foreground = '#9999ff'),
-                widget.Sep(padding=10),
-                widget.Clock(format='%H:%M'),
-                widget.Sep(padding=10),
-                widget.CurrentLayoutIcon(scale=0.5, foreground= '#9999ff'),
+                widget.WindowName(foreground = colors[2]),
+                widget.TextBox("Nuvallo", name="nuvallo", foreground = colors[0]),
+                widget.Sep(padding=10, foreground = colors[4]),
+                widget.TextBox('Battery: ', foreground = colors[2]),
+                widget.Battery(format="{percent:2.0%}", foreground = colors[0]),
+                widget.Sep(padding=10, foreground = colors[4]),
+                widget.TextBox('Volume: ', foreground = colors[2]),
+                widget.PulseVolume(foreground = colors[0]),
+                widget.Sep(padding=10, foreground = colors[4]),
+                widget.Clock(format='%H:%M', foreground = colors[2]),
+                widget.Sep(padding=10, linewidth=0),
+                
                
             ],
             24,
         ),
-        wallpaper='~/.config/qtile/wall.png',
+        wallpaper='~/.config/qtile/wall.jpg',
         wallpaper_mode='fill',
     ),
 ]

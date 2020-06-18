@@ -1,0 +1,880 @@
+[2020-06-07 06:31:02.571] [info] Checking for update
+[2020-06-07 06:31:02.645] [info] Error reading /home/nuvallo/.config/Notion/cookies.json Error: /home/nuvallo/.config/Notion/cookies.json: ENOENT: no such file or directory, open '/home/nuvallo/.config/Notion/cookies.json'
+    at Object.openSync (fs.js:447:3)
+    at Object.func (electron/js2c/asar.js:138:31)
+    at Object.func [as openSync] (electron/js2c/asar.js:138:31)
+    at Object.readFileSync (fs.js:349:35)
+    at Object.fs.readFileSync (electron/js2c/asar.js:580:40)
+    at Object.fs.readFileSync (electron/js2c/asar.js:580:40)
+    at Object.readFileSync (/opt/notion-app/app.asar/node_modules/jsonfile/index.js:61:22)
+    at JsonStore.loadSync (/opt/notion-app/app.asar/main/JsonStore.js:92:28)
+    at new JsonStore (/opt/notion-app/app.asar/main/JsonStore.js:46:14)
+    at Object.<anonymous> (/opt/notion-app/app.asar/main/CookieStore.js:53:23)
+[2020-06-07 06:31:02.756] [error] Error: Error: ENOENT, dev-app-update.yml not found in /opt/notion-app/app.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at fs.readFile (electron/js2c/asar.js:546:23)
+    at go$readFile (/opt/notion-app/app.asar/node_modules/graceful-fs/graceful-fs.js:110:14)
+    at readFile (/opt/notion-app/app.asar/node_modules/graceful-fs/graceful-fs.js:107:12)
+    at /opt/notion-app/app.asar/node_modules/universalify/index.js:13:12
+    at new Promise (<anonymous>)
+    at readFile (/opt/notion-app/app.asar/node_modules/universalify/index.js:7:14)
+    at AppImageUpdater.loadUpdateConfig (/opt/notion-app/app.asar/node_modules/electron-updater/out/AppUpdater.js:589:67)
+    at Lazy.<anonymous> (/opt/notion-app/app.asar/node_modules/electron-updater/out/AppUpdater.js:209:58)
+    at Lazy.get value [as value] (/opt/notion-app/app.asar/node_modules/lazy-val/out/main.js:23:25)
+[2020-06-07 06:31:02.760] [info] {
+  level: 'info',
+  from: 'autoUpdater',
+  type: 'unsupportedLinuxApp',
+  error: Error: ENOENT, dev-app-update.yml not found in /opt/notion-app/app.asar
+      at createError (electron/js2c/asar.js:109:17)
+      at fs.readFile (electron/js2c/asar.js:546:23)
+      at go$readFile (/opt/notion-app/app.asar/node_modules/graceful-fs/graceful-fs.js:110:14)
+      at readFile (/opt/notion-app/app.asar/node_modules/graceful-fs/graceful-fs.js:107:12)
+      at /opt/notion-app/app.asar/node_modules/universalify/index.js:13:12
+      at new Promise (<anonymous>)
+      at readFile (/opt/notion-app/app.asar/node_modules/universalify/index.js:7:14)
+      at AppImageUpdater.loadUpdateConfig (/opt/notion-app/app.asar/node_modules/electron-updater/out/AppUpdater.js:589:67)
+      at Lazy.<anonymous> (/opt/notion-app/app.asar/node_modules/electron-updater/out/AppUpdater.js:209:58)
+      at Lazy.get value [as value] (/opt/notion-app/app.asar/node_modules/lazy-val/out/main.js:23:25) {
+    code: 'ENOENT',
+    errno: -2
+  }
+}
+[2020-06-07 06:31:02.776] [info] Error reading /home/nuvallo/.config/Notion/assets.json Error: ENOENT: no such file or directory, open '/home/nuvallo/.config/Notion/assets.json'
+[2020-06-07 06:31:02.777] [info] Error reading /home/nuvallo/.config/Notion/headers.json Error: ENOENT: no such file or directory, open '/home/nuvallo/.config/Notion/headers.json'
+[2020-06-07 06:31:02.778] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'loadJson',
+  data: { time: 69 }
+}
+[2020-06-07 06:31:02.779] [info] Error reading /home/nuvallo/.config/Notion/assets.json Error: ENOENT: no such file or directory, open '/home/nuvallo/.config/Notion/assets.json'
+[2020-06-07 06:31:02.780] [info] Error reading /home/nuvallo/.config/Notion/headers.json Error: ENOENT: no such file or directory, open '/home/nuvallo/.config/Notion/headers.json'
+[2020-06-07 06:31:02.781] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'verifyCache',
+  data: { time: 2 }
+}
+[2020-06-07 06:31:02.781] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'assetCacheInitialize',
+  data: { time: 72 }
+}
+[2020-06-07 06:31:12.635] [info] Checking for app update
+[2020-06-07 06:31:13.075] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 438 }
+}
+[2020-06-07 06:31:13.081] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 4 }
+}
+[2020-06-07 06:31:13.081] [info] App update available 22.6.10
+[2020-06-07 06:31:13.090] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'assetJson',
+  data: { time: 9 }
+}
+[2020-06-07 06:31:17.941] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'prepare',
+  data: { time: 4843 }
+}
+[2020-06-07 06:31:17.949] [info] App update download complete 22.6.10
+[2020-06-07 06:31:17.951] [info] Installing app update 22.6.10
+[2020-06-07 06:31:17.957] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'download',
+  data: { time: 9 }
+}
+[2020-06-07 06:31:17.957] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'checkForUpdatesNow',
+  data: { time: 5323 }
+}
+[2020-06-07 06:32:17.965] [info] Checking for app update
+[2020-06-07 06:32:18.381] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 411 }
+}
+[2020-06-07 06:32:18.390] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 5 }
+}
+[2020-06-07 06:32:18.391] [info] No app update available
+[2020-06-07 06:33:18.392] [info] Checking for app update
+[2020-06-07 06:33:18.797] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 400 }
+}
+[2020-06-07 06:33:18.887] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 86 }
+}
+[2020-06-07 06:33:18.888] [info] No app update available
+[2020-06-07 06:34:18.891] [info] Checking for app update
+[2020-06-07 06:34:19.301] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 402 }
+}
+[2020-06-07 06:34:19.306] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 3 }
+}
+[2020-06-07 06:34:19.307] [info] No app update available
+[2020-06-07 06:35:19.311] [info] Checking for app update
+[2020-06-07 06:35:19.722] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 407 }
+}
+[2020-06-07 06:35:19.726] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 3 }
+}
+[2020-06-07 06:35:19.726] [info] No app update available
+[2020-06-07 06:36:19.731] [info] Checking for app update
+[2020-06-07 06:36:20.157] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 425 }
+}
+[2020-06-07 06:36:20.162] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 2 }
+}
+[2020-06-07 06:36:20.163] [info] No app update available
+[2020-06-07 06:37:20.168] [info] Checking for app update
+[2020-06-07 06:37:20.580] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 406 }
+}
+[2020-06-07 06:37:20.593] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 9 }
+}
+[2020-06-07 06:37:20.593] [info] No app update available
+[2020-06-07 06:38:20.594] [info] Checking for app update
+[2020-06-07 06:38:20.991] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 394 }
+}
+[2020-06-07 06:38:20.997] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 4 }
+}
+[2020-06-07 06:38:20.997] [info] No app update available
+[2020-06-07 06:39:20.999] [info] Checking for app update
+[2020-06-07 06:39:21.309] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 308 }
+}
+[2020-06-07 06:39:21.314] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 3 }
+}
+[2020-06-07 06:39:21.315] [info] No app update available
+[2020-06-07 06:40:21.318] [info] Checking for app update
+[2020-06-07 06:40:21.736] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 415 }
+}
+[2020-06-07 06:40:21.746] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 5 }
+}
+[2020-06-07 06:40:21.747] [info] No app update available
+[2020-06-07 06:41:21.750] [info] Checking for app update
+[2020-06-07 06:41:22.194] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 438 }
+}
+[2020-06-07 06:41:22.290] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 95 }
+}
+[2020-06-07 06:41:22.291] [info] No app update available
+[2020-06-07 06:42:22.294] [info] Checking for app update
+[2020-06-07 06:42:22.706] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 411 }
+}
+[2020-06-07 06:42:22.710] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 2 }
+}
+[2020-06-07 06:42:22.711] [info] No app update available
+[2020-06-07 06:43:22.713] [info] Checking for app update
+[2020-06-07 06:43:23.124] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 402 }
+}
+[2020-06-07 06:43:23.128] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 2 }
+}
+[2020-06-07 06:43:23.129] [info] No app update available
+[2020-06-07 06:44:23.131] [info] Checking for app update
+[2020-06-07 06:44:23.536] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 403 }
+}
+[2020-06-07 06:44:23.546] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 6 }
+}
+[2020-06-07 06:44:23.546] [info] No app update available
+[2020-06-07 06:45:23.549] [info] Checking for app update
+[2020-06-07 06:45:23.973] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 419 }
+}
+[2020-06-07 06:45:23.976] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 2 }
+}
+[2020-06-07 06:45:23.977] [info] No app update available
+[2020-06-07 06:46:23.981] [info] Checking for app update
+[2020-06-07 06:46:24.384] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 401 }
+}
+[2020-06-07 06:46:24.389] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 3 }
+}
+[2020-06-07 06:46:24.390] [info] No app update available
+[2020-06-07 06:47:24.394] [info] Checking for app update
+[2020-06-07 06:47:24.796] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 401 }
+}
+[2020-06-07 06:47:24.801] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 3 }
+}
+[2020-06-07 06:47:24.802] [info] No app update available
+[2020-06-07 06:48:24.804] [info] Checking for app update
+[2020-06-07 06:48:25.237] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 432 }
+}
+[2020-06-07 06:48:25.245] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 5 }
+}
+[2020-06-07 06:48:25.245] [info] No app update available
+[2020-06-07 06:49:25.251] [info] Checking for app update
+[2020-06-07 06:49:25.662] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 407 }
+}
+[2020-06-07 06:49:25.666] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 2 }
+}
+[2020-06-07 06:49:25.666] [info] No app update available
+[2020-06-07 06:50:25.668] [info] Checking for app update
+[2020-06-07 06:50:26.076] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 406 }
+}
+[2020-06-07 06:50:26.080] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 3 }
+}
+[2020-06-07 06:50:26.081] [info] No app update available
+[2020-06-07 06:51:26.083] [info] Checking for app update
+[2020-06-07 06:51:26.482] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 396 }
+}
+[2020-06-07 06:51:26.489] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 3 }
+}
+[2020-06-07 06:51:26.490] [info] No app update available
+[2020-06-07 06:52:26.492] [info] Checking for app update
+[2020-06-07 06:52:26.895] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 399 }
+}
+[2020-06-07 06:52:26.902] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 2 }
+}
+[2020-06-07 06:52:26.902] [info] No app update available
+[2020-06-07 06:53:26.904] [info] Checking for app update
+[2020-06-07 06:53:27.322] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 415 }
+}
+[2020-06-07 06:53:27.408] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 83 }
+}
+[2020-06-07 06:53:27.408] [info] No app update available
+[2020-06-07 06:54:27.414] [info] Checking for app update
+[2020-06-07 06:54:27.831] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 405 }
+}
+[2020-06-07 06:54:27.835] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 2 }
+}
+[2020-06-07 06:54:27.836] [info] No app update available
+[2020-06-07 06:55:27.837] [info] Checking for app update
+[2020-06-07 06:55:28.262] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 424 }
+}
+[2020-06-07 06:55:28.268] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 3 }
+}
+[2020-06-07 06:55:28.269] [info] No app update available
+[2020-06-07 06:56:28.271] [info] Checking for app update
+[2020-06-07 06:56:28.597] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 320 }
+}
+[2020-06-07 06:56:28.602] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 4 }
+}
+[2020-06-07 06:56:28.604] [info] No app update available
+[2020-06-07 06:57:28.608] [info] Checking for app update
+[2020-06-07 06:57:29.011] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 402 }
+}
+[2020-06-07 06:57:29.014] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 2 }
+}
+[2020-06-07 06:57:29.015] [info] No app update available
+[2020-06-07 06:58:29.017] [info] Checking for app update
+[2020-06-07 06:58:29.418] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 400 }
+}
+[2020-06-07 06:58:29.507] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 87 }
+}
+[2020-06-07 06:58:29.507] [info] No app update available
+[2020-06-09 22:58:52.769] [info] Checking for update
+[2020-06-09 22:58:53.023] [error] Error: Error: ENOENT, dev-app-update.yml not found in /opt/notion-app/app.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at fs.readFile (electron/js2c/asar.js:546:23)
+    at go$readFile (/opt/notion-app/app.asar/node_modules/graceful-fs/graceful-fs.js:110:14)
+    at readFile (/opt/notion-app/app.asar/node_modules/graceful-fs/graceful-fs.js:107:12)
+    at /opt/notion-app/app.asar/node_modules/universalify/index.js:13:12
+    at new Promise (<anonymous>)
+    at readFile (/opt/notion-app/app.asar/node_modules/universalify/index.js:7:14)
+    at AppImageUpdater.loadUpdateConfig (/opt/notion-app/app.asar/node_modules/electron-updater/out/AppUpdater.js:589:67)
+    at Lazy.<anonymous> (/opt/notion-app/app.asar/node_modules/electron-updater/out/AppUpdater.js:209:58)
+    at Lazy.get value [as value] (/opt/notion-app/app.asar/node_modules/lazy-val/out/main.js:23:25)
+[2020-06-09 22:58:53.028] [info] {
+  level: 'info',
+  from: 'autoUpdater',
+  type: 'unsupportedLinuxApp',
+  error: Error: ENOENT, dev-app-update.yml not found in /opt/notion-app/app.asar
+      at createError (electron/js2c/asar.js:109:17)
+      at fs.readFile (electron/js2c/asar.js:546:23)
+      at go$readFile (/opt/notion-app/app.asar/node_modules/graceful-fs/graceful-fs.js:110:14)
+      at readFile (/opt/notion-app/app.asar/node_modules/graceful-fs/graceful-fs.js:107:12)
+      at /opt/notion-app/app.asar/node_modules/universalify/index.js:13:12
+      at new Promise (<anonymous>)
+      at readFile (/opt/notion-app/app.asar/node_modules/universalify/index.js:7:14)
+      at AppImageUpdater.loadUpdateConfig (/opt/notion-app/app.asar/node_modules/electron-updater/out/AppUpdater.js:589:67)
+      at Lazy.<anonymous> (/opt/notion-app/app.asar/node_modules/electron-updater/out/AppUpdater.js:209:58)
+      at Lazy.get value [as value] (/opt/notion-app/app.asar/node_modules/lazy-val/out/main.js:23:25) {
+    code: 'ENOENT',
+    errno: -2
+  }
+}
+[2020-06-09 22:58:53.056] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'loadJson',
+  data: { time: 74 }
+}
+[2020-06-09 22:58:53.272] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'verifyCache',
+  data: { time: 215 }
+}
+[2020-06-09 22:58:53.274] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'assetCacheInitialize',
+  data: { time: 293 }
+}
+[2020-06-09 22:59:02.877] [info] Checking for app update
+[2020-06-09 22:59:03.085] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 205 }
+}
+[2020-06-09 22:59:03.095] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 7 }
+}
+[2020-06-09 22:59:03.095] [info] App update available 22.7.0
+[2020-06-09 22:59:03.453] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'assetJson',
+  data: { time: 357 }
+}
+[2020-06-09 22:59:07.201] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'prepare',
+  data: { time: 3740 }
+}
+[2020-06-09 22:59:07.214] [info] App update download complete 22.7.0
+[2020-06-09 22:59:07.218] [info] Installing app update 22.7.0
+[2020-06-09 22:59:07.307] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'download',
+  data: { time: 94 }
+}
+[2020-06-09 22:59:07.307] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'checkForUpdatesNow',
+  data: { time: 4431 }
+}
+[2020-06-09 23:00:07.311] [info] Checking for app update
+[2020-06-09 23:00:07.752] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 435 }
+}
+[2020-06-09 23:00:07.835] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 82 }
+}
+[2020-06-09 23:00:07.836] [info] No app update available
+[2020-06-09 23:01:07.853] [info] Checking for app update
+[2020-06-09 23:01:08.059] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 197 }
+}
+[2020-06-09 23:01:08.066] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 3 }
+}
+[2020-06-09 23:01:08.066] [info] No app update available
+[2020-06-10 04:53:43.988] [info] Checking for update
+[2020-06-10 04:53:44.155] [error] Error: Error: ENOENT, dev-app-update.yml not found in /opt/notion-app/app.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at fs.readFile (electron/js2c/asar.js:546:23)
+    at go$readFile (/opt/notion-app/app.asar/node_modules/graceful-fs/graceful-fs.js:110:14)
+    at readFile (/opt/notion-app/app.asar/node_modules/graceful-fs/graceful-fs.js:107:12)
+    at /opt/notion-app/app.asar/node_modules/universalify/index.js:13:12
+    at new Promise (<anonymous>)
+    at readFile (/opt/notion-app/app.asar/node_modules/universalify/index.js:7:14)
+    at AppImageUpdater.loadUpdateConfig (/opt/notion-app/app.asar/node_modules/electron-updater/out/AppUpdater.js:589:67)
+    at Lazy.<anonymous> (/opt/notion-app/app.asar/node_modules/electron-updater/out/AppUpdater.js:209:58)
+    at Lazy.get value [as value] (/opt/notion-app/app.asar/node_modules/lazy-val/out/main.js:23:25)
+[2020-06-10 04:53:44.158] [info] {
+  level: 'info',
+  from: 'autoUpdater',
+  type: 'unsupportedLinuxApp',
+  error: Error: ENOENT, dev-app-update.yml not found in /opt/notion-app/app.asar
+      at createError (electron/js2c/asar.js:109:17)
+      at fs.readFile (electron/js2c/asar.js:546:23)
+      at go$readFile (/opt/notion-app/app.asar/node_modules/graceful-fs/graceful-fs.js:110:14)
+      at readFile (/opt/notion-app/app.asar/node_modules/graceful-fs/graceful-fs.js:107:12)
+      at /opt/notion-app/app.asar/node_modules/universalify/index.js:13:12
+      at new Promise (<anonymous>)
+      at readFile (/opt/notion-app/app.asar/node_modules/universalify/index.js:7:14)
+      at AppImageUpdater.loadUpdateConfig (/opt/notion-app/app.asar/node_modules/electron-updater/out/AppUpdater.js:589:67)
+      at Lazy.<anonymous> (/opt/notion-app/app.asar/node_modules/electron-updater/out/AppUpdater.js:209:58)
+      at Lazy.get value [as value] (/opt/notion-app/app.asar/node_modules/lazy-val/out/main.js:23:25) {
+    code: 'ENOENT',
+    errno: -2
+  }
+}
+[2020-06-10 04:53:44.182] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'loadJson',
+  data: { time: 61 }
+}
+[2020-06-10 04:53:44.361] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'verifyCache',
+  data: { time: 179 }
+}
+[2020-06-10 04:53:44.362] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'assetCacheInitialize',
+  data: { time: 241 }
+}
+[2020-06-10 04:53:54.049] [info] Checking for app update
+[2020-06-10 04:54:21.985] [info] Failed to load: Event {
+  isTrusted: [Getter: false],
+  errorCode: -3,
+  errorDescription: '',
+  validatedURL: 'https://www.youtube.com/embed/BgPwDwW3FE8?feature=oembed',
+  isMainFrame: false,
+  frameProcessId: 10,
+  frameRoutingId: 6
+}
+[2020-06-10 04:54:22.012] [info] Failed to load: Event {
+  isTrusted: [Getter: false],
+  errorCode: -3,
+  errorDescription: '',
+  validatedURL: 'https://www.youtube.com/embed/w2aIyxsT48I?feature=oembed',
+  isMainFrame: false,
+  frameProcessId: 10,
+  frameRoutingId: 9
+}
+[2020-06-10 04:54:22.022] [info] Failed to load: Event {
+  isTrusted: [Getter: false],
+  errorCode: -3,
+  errorDescription: '',
+  validatedURL: 'https://www.youtube.com/embed/5ROv0RXrhX0?feature=oembed',
+  isMainFrame: false,
+  frameProcessId: 10,
+  frameRoutingId: 12
+}
+[2020-06-10 04:54:22.035] [info] Failed to load: Event {
+  isTrusted: [Getter: false],
+  errorCode: -3,
+  errorDescription: '',
+  validatedURL: 'https://www.youtube.com/embed/gYWEPbCVdtI?feature=oembed',
+  isMainFrame: false,
+  frameProcessId: 10,
+  frameRoutingId: 15
+}
+[2020-06-10 04:56:12.008] [info] No app update available
+[2020-06-10 04:57:12.021] [info] Checking for app update
+[2020-06-10 04:57:12.230] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 208 }
+}
+[2020-06-10 04:57:12.237] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 6 }
+}
+[2020-06-10 04:57:12.237] [info] App update available 22.7.1
+[2020-06-10 04:57:12.595] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'assetJson',
+  data: { time: 358 }
+}
+[2020-06-10 04:57:13.934] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'prepare',
+  data: { time: 1334 }
+}
+[2020-06-10 04:57:13.940] [info] App update download complete 22.7.1
+[2020-06-10 04:57:13.942] [info] Installing app update 22.7.1
+[2020-06-10 04:57:13.998] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'download',
+  data: { time: 58 }
+}
+[2020-06-10 04:57:13.998] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'checkForUpdatesNow',
+  data: { time: 1977 }
+}
+[2020-06-10 04:58:14.031] [info] Checking for app update
+[2020-06-10 04:58:14.459] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 425 }
+}
+[2020-06-10 04:58:14.533] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 70 }
+}
+[2020-06-10 04:58:14.534] [info] No app update available
+[2020-06-10 04:59:14.564] [info] Checking for app update
+[2020-06-10 04:59:14.729] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 162 }
+}
+[2020-06-10 04:59:14.735] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 4 }
+}
+[2020-06-10 04:59:14.735] [info] No app update available
+[2020-06-10 05:00:14.765] [info] Checking for app update
+[2020-06-10 05:00:14.958] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 191 }
+}
+[2020-06-10 05:00:14.964] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 3 }
+}
+[2020-06-10 05:00:14.964] [info] No app update available
+[2020-06-10 05:01:14.994] [info] Checking for app update
+[2020-06-10 05:01:15.394] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 395 }
+}
+[2020-06-10 05:01:15.470] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 74 }
+}
+[2020-06-10 05:01:15.472] [info] No app update available
+[2020-06-10 05:02:15.504] [info] Checking for app update
+[2020-06-10 05:02:15.922] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 411 }
+}
+[2020-06-10 05:02:15.998] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 75 }
+}
+[2020-06-10 05:02:15.998] [info] No app update available
+[2020-06-10 05:03:16.031] [info] Checking for app update
+[2020-06-10 05:03:16.232] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 198 }
+}
+[2020-06-10 05:03:16.238] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 4 }
+}
+[2020-06-10 05:03:16.238] [info] No app update available
+[2020-06-10 05:04:16.261] [info] Checking for app update
+[2020-06-10 05:04:16.461] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 197 }
+}
+[2020-06-10 05:04:16.471] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 7 }
+}
+[2020-06-10 05:04:16.472] [info] No app update available
+[2020-06-10 05:05:16.504] [info] Checking for app update
+[2020-06-10 05:05:16.932] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 425 }
+}
+[2020-06-10 05:05:17.005] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 71 }
+}
+[2020-06-10 05:05:17.006] [info] No app update available
+[2020-06-10 05:06:17.038] [info] Checking for app update
+[2020-06-10 05:06:17.458] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 414 }
+}
+[2020-06-10 05:06:17.538] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 76 }
+}
+[2020-06-10 05:06:17.538] [info] No app update available
+[2020-06-10 05:07:17.571] [info] Checking for app update
+[2020-06-10 05:07:17.763] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 186 }
+}
+[2020-06-10 05:07:17.772] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 5 }
+}
+[2020-06-10 05:07:17.772] [info] No app update available
+[2020-06-10 05:08:17.804] [info] Checking for app update
+[2020-06-10 05:08:18.235] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsFetch',
+  data: { time: 424 }
+}
+[2020-06-10 05:08:18.314] [info] {
+  level: 'info',
+  from: 'assetCache',
+  type: 'updateAssetsResponseParse',
+  data: { time: 76 }
+}
+[2020-06-10 05:08:18.314] [info] No app update available

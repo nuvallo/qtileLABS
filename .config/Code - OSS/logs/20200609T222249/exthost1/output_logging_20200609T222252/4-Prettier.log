@@ -1,0 +1,2158 @@
+["INFO" - 10:22:52 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 10:22:52 PM] Extension Version: 5.0.0.
+["INFO" - 10:22:52 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 10:22:52 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 10:33:00 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 10:33:00 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 10:33:00 PM] Using bundled version of prettier.
+["INFO" - 10:33:00 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 10:33:00 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:33:00 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 10:33:00 PM] Formatting completed in 58.408076ms.
+["INFO" - 10:33:46 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 10:33:46 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 10:33:46 PM] Using bundled version of prettier.
+["INFO" - 10:33:46 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 10:33:46 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:33:46 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 10:33:46 PM] Formatting completed in 14.628461ms.
+["INFO" - 10:33:52 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 10:33:52 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 10:33:52 PM] Using bundled version of prettier.
+["INFO" - 10:33:52 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 10:33:53 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:33:53 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 10:33:53 PM] Formatting completed in 18.197595ms.
+["INFO" - 10:38:21 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 10:38:21 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 10:38:21 PM] Using bundled version of prettier.
+["INFO" - 10:38:21 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 10:38:21 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 10:38:21 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 10:38:21 PM] Formatting completed in 19.13029ms.
+["INFO" - 11:16:29 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:16:29 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:16:29 PM] Using bundled version of prettier.
+["INFO" - 11:16:29 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:16:29 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:16:29 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:16:29 PM] Formatting completed in 19.760197ms.
+["INFO" - 11:17:51 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:17:51 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:17:51 PM] Using bundled version of prettier.
+["INFO" - 11:17:51 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:17:51 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:17:51 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:17:51 PM] Formatting completed in 18.968268ms.
+["INFO" - 11:18:29 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:18:29 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:18:29 PM] Using bundled version of prettier.
+["INFO" - 11:18:29 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:18:29 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:18:29 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:18:29 PM] Formatting completed in 17.194293ms.
+["INFO" - 11:19:08 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:19:08 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:19:08 PM] Using bundled version of prettier.
+["INFO" - 11:19:08 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:19:08 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:19:08 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:19:08 PM] Formatting completed in 20.850105ms.
+["INFO" - 11:19:13 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:19:13 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:19:13 PM] Using bundled version of prettier.
+["INFO" - 11:19:13 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:19:13 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:19:13 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:19:13 PM] Formatting completed in 22.165441ms.
+["INFO" - 11:21:02 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:21:02 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:21:02 PM] Using bundled version of prettier.
+["INFO" - 11:21:02 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:21:02 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:21:02 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:21:02 PM] Formatting completed in 21.978466ms.
+["INFO" - 11:28:20 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:28:20 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:28:20 PM] Using bundled version of prettier.
+["INFO" - 11:28:20 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:28:20 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:28:20 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:28:20 PM] Formatting completed in 21.403974ms.
+["INFO" - 11:36:58 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:36:58 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:36:58 PM] Using bundled version of prettier.
+["INFO" - 11:36:58 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:36:58 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:36:58 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:36:58 PM] Formatting completed in 18.499641ms.
+["INFO" - 11:37:52 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:37:52 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:37:52 PM] Using bundled version of prettier.
+["INFO" - 11:37:52 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:37:52 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:37:52 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:37:52 PM] Formatting completed in 12.609062ms.
+["INFO" - 11:37:53 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:37:53 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:37:53 PM] Using bundled version of prettier.
+["INFO" - 11:37:53 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:37:53 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:37:53 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:37:53 PM] Formatting completed in 18.543832ms.
+["INFO" - 11:38:10 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:38:11 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:38:11 PM] Using bundled version of prettier.
+["INFO" - 11:38:11 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:38:11 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:38:11 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:38:11 PM] Formatting completed in 14.949906ms.
+["INFO" - 11:39:45 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:39:45 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:39:45 PM] Using bundled version of prettier.
+["INFO" - 11:39:45 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:39:45 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:39:45 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:39:45 PM] Formatting completed in 14.328857ms.
+["INFO" - 11:39:59 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:39:59 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:39:59 PM] Using bundled version of prettier.
+["INFO" - 11:39:59 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:39:59 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:39:59 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:39:59 PM] Formatting completed in 17.405906ms.
+["INFO" - 11:40:18 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:40:18 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:40:18 PM] Using bundled version of prettier.
+["INFO" - 11:40:18 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:40:18 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:40:18 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:40:18 PM] Formatting completed in 20.301704ms.
+["INFO" - 11:40:20 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:40:20 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:40:20 PM] Using bundled version of prettier.
+["INFO" - 11:40:20 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:40:20 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:40:20 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:40:20 PM] Formatting completed in 17.104671ms.
+["INFO" - 11:43:14 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:43:14 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:43:14 PM] Using bundled version of prettier.
+["INFO" - 11:43:14 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:43:14 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:43:14 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:43:14 PM] Formatting completed in 14.865527ms.
+["INFO" - 11:53:23 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:53:23 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:53:23 PM] Using bundled version of prettier.
+["INFO" - 11:53:23 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:53:23 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:53:23 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:53:23 PM] Formatting completed in 18.430988ms.
+["INFO" - 11:53:24 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:53:24 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:53:24 PM] Using bundled version of prettier.
+["INFO" - 11:53:24 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:53:24 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:53:24 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:53:24 PM] Formatting completed in 18.774648ms.
+["INFO" - 11:54:02 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+["INFO" - 11:54:02 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:54:02 PM] Using bundled version of prettier.
+["INFO" - 11:54:02 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:54:02 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:54:02 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md",
+  "parser": "markdown"
+}
+["INFO" - 11:54:02 PM] Formatting completed in 14.101966ms.
+["INFO" - 11:55:35 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js
+["INFO" - 11:55:35 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 11:55:35 PM] Using bundled version of prettier.
+["INFO" - 11:55:35 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 11:55:35 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:55:35 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js",
+  "parser": "babel"
+}
+["INFO" - 11:55:35 PM] Formatting completed in 100.041955ms.
+["INFO" - 12:43:59 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/index.js
+["INFO" - 12:43:59 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 12:43:59 AM] Using bundled version of prettier.
+["INFO" - 12:43:59 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:43:59 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:43:59 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/index.js",
+  "parser": "babel"
+}
+["INFO" - 12:43:59 AM] Formatting completed in 67.490374ms.
+["INFO" - 12:48:20 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 12:48:20 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 12:48:20 AM] Using bundled version of prettier.
+["INFO" - 12:48:20 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:48:20 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:48:20 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["ERROR" - 12:48:20 AM] Error formatting document.
+["ERROR" - 12:48:20 AM] Unexpected token, expected "," (3:32)
+  1 | const express = require('express');
+  2 | 
+> 3 | const router = express.Router(O;
+    |                                ^
+SyntaxError: Unexpected token, expected "," (3:32)
+  1 | const express = require('express');
+  2 | 
+> 3 | const router = express.Router(O;
+    |                                ^
+	at e (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/parser-babel.js:1:344)
+	at Object.parse (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/parser-babel.js:1:262513)
+	at Object.parse (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/index.js:11370:19)
+	at coreFormat (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/index.js:14784:25)
+	at format (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/index.js:15019:75)
+	at formatWithCursor (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/index.js:15035:12)
+	at /home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/index.js:51620:12
+	at Object.format (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/index.js:51640:12)
+	at t.default.<anonymous> (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/dist/extension.js:1:58458)
+	at Generator.next (<anonymous>)
+	at s (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/dist/extension.js:1:53285)
+["INFO" - 12:48:20 AM] Formatting completed in 22.615239ms.
+["INFO" - 12:48:22 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 12:48:22 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 12:48:22 AM] Using bundled version of prettier.
+["INFO" - 12:48:22 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:48:22 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:48:22 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 12:48:22 AM] Formatting completed in 15.598917ms.
+["INFO" - 12:48:32 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 12:48:32 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 12:48:32 AM] Using bundled version of prettier.
+["INFO" - 12:48:32 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:48:32 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:48:32 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 12:48:32 AM] Formatting completed in 19.801593ms.
+["INFO" - 12:49:12 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 12:49:12 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 12:49:12 AM] Using bundled version of prettier.
+["INFO" - 12:49:12 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:49:12 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:49:12 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 12:49:12 AM] Formatting completed in 13.929937ms.
+["INFO" - 12:51:37 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js
+["INFO" - 12:51:37 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 12:51:37 AM] Using bundled version of prettier.
+["INFO" - 12:51:37 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:51:37 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:51:37 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js",
+  "parser": "babel"
+}
+["INFO" - 12:51:37 AM] Formatting completed in 65.530603ms.
+["INFO" - 12:52:13 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js
+["INFO" - 12:52:13 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 12:52:13 AM] Using bundled version of prettier.
+["INFO" - 12:52:13 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:52:13 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:52:13 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js",
+  "parser": "babel"
+}
+["INFO" - 12:52:13 AM] Formatting completed in 73.694359ms.
+["INFO" - 12:52:27 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 12:52:27 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 12:52:27 AM] Using bundled version of prettier.
+["INFO" - 12:52:27 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:52:27 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:52:27 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 12:52:27 AM] Formatting completed in 56.123602ms.
+["INFO" - 12:53:45 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 12:53:45 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 12:53:45 AM] Using bundled version of prettier.
+["INFO" - 12:53:45 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:53:45 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:53:45 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 12:53:45 AM] Formatting completed in 51.142565ms.
+["INFO" - 12:55:57 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 12:55:57 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 12:55:57 AM] Using bundled version of prettier.
+["INFO" - 12:55:57 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:55:58 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:55:58 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 12:55:58 AM] Formatting completed in 33.255564ms.
+["INFO" - 12:57:10 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 12:57:10 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 12:57:10 AM] Using bundled version of prettier.
+["INFO" - 12:57:10 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:57:10 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:57:10 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 12:57:10 AM] Formatting completed in 27.470013ms.
+["INFO" - 12:57:19 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 12:57:19 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 12:57:19 AM] Using bundled version of prettier.
+["INFO" - 12:57:19 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:57:19 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:57:19 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 12:57:19 AM] Formatting completed in 30.942548ms.
+["INFO" - 12:57:21 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 12:57:21 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 12:57:21 AM] Using bundled version of prettier.
+["INFO" - 12:57:21 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:57:21 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:57:21 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 12:57:21 AM] Formatting completed in 49.522788ms.
+["INFO" - 12:58:40 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 12:58:40 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 12:58:40 AM] Using bundled version of prettier.
+["INFO" - 12:58:40 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:58:40 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:58:40 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 12:58:40 AM] Formatting completed in 20.388524ms.
+["INFO" - 12:58:56 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js
+["INFO" - 12:58:56 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 12:58:56 AM] Using bundled version of prettier.
+["INFO" - 12:58:56 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 12:58:56 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 12:58:56 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js",
+  "parser": "babel"
+}
+["INFO" - 12:58:56 AM] Formatting completed in 58.183803ms.
+["INFO" - 1:05:24 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 1:05:24 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:05:24 AM] Using bundled version of prettier.
+["INFO" - 1:05:24 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:05:24 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:05:24 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:05:24 AM] Formatting completed in 65.523269ms.
+["INFO" - 1:05:25 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 1:05:25 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:05:25 AM] Using bundled version of prettier.
+["INFO" - 1:05:25 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:05:25 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:05:25 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:05:25 AM] Formatting completed in 18.456049ms.
+["INFO" - 1:06:48 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js
+["INFO" - 1:06:48 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:06:48 AM] Using bundled version of prettier.
+["INFO" - 1:06:48 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:06:48 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:06:48 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:06:48 AM] Formatting completed in 50.753657ms.
+["INFO" - 1:07:17 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 1:07:17 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:07:17 AM] Using bundled version of prettier.
+["INFO" - 1:07:17 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:07:17 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:07:17 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:07:17 AM] Formatting completed in 18.835482ms.
+["INFO" - 1:09:16 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js
+["INFO" - 1:09:16 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:09:16 AM] Using bundled version of prettier.
+["INFO" - 1:09:16 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:09:16 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:09:16 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:09:16 AM] Formatting completed in 73.606132ms.
+["INFO" - 1:10:43 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 1:10:43 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:10:43 AM] Using bundled version of prettier.
+["INFO" - 1:10:43 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:10:43 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:10:43 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:10:43 AM] Formatting completed in 51.717519ms.
+["INFO" - 1:10:47 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 1:10:47 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:10:47 AM] Using bundled version of prettier.
+["INFO" - 1:10:47 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:10:47 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:10:47 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:10:47 AM] Formatting completed in 22.418496ms.
+["INFO" - 1:13:40 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js
+["INFO" - 1:13:40 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:13:40 AM] Using bundled version of prettier.
+["INFO" - 1:13:40 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:13:40 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:13:40 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:13:40 AM] Formatting completed in 66.480099ms.
+["INFO" - 1:14:05 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js
+["INFO" - 1:14:05 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:14:05 AM] Using bundled version of prettier.
+["INFO" - 1:14:05 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:14:05 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:14:05 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:14:05 AM] Formatting completed in 72.809021ms.
+["INFO" - 1:14:12 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 1:14:12 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:14:12 AM] Using bundled version of prettier.
+["INFO" - 1:14:12 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:14:12 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:14:12 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:14:12 AM] Formatting completed in 19.335836ms.
+["INFO" - 1:19:50 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 1:19:50 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:19:50 AM] Using bundled version of prettier.
+["INFO" - 1:19:50 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:19:50 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:19:50 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:19:50 AM] Formatting completed in 29.341483ms.
+["INFO" - 1:19:53 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 1:19:53 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:19:53 AM] Using bundled version of prettier.
+["INFO" - 1:19:53 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:19:53 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:19:53 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:19:53 AM] Formatting completed in 22.992695ms.
+["INFO" - 1:22:01 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 1:22:01 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:22:01 AM] Using bundled version of prettier.
+["INFO" - 1:22:01 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:22:01 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:22:01 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:22:01 AM] Formatting completed in 26.33621ms.
+["INFO" - 1:22:54 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 1:22:54 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:22:54 AM] Using bundled version of prettier.
+["INFO" - 1:22:54 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:22:54 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:22:54 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:22:54 AM] Formatting completed in 17.994408ms.
+["INFO" - 1:24:42 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 1:24:42 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:24:42 AM] Using bundled version of prettier.
+["INFO" - 1:24:42 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:24:42 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:24:42 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:24:42 AM] Formatting completed in 29.437416ms.
+["INFO" - 1:25:19 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 1:25:19 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:25:19 AM] Using bundled version of prettier.
+["INFO" - 1:25:19 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:25:19 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:25:19 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:25:19 AM] Formatting completed in 46.102466ms.
+["INFO" - 1:32:50 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-model.js
+["INFO" - 1:32:50 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:32:50 AM] Using bundled version of prettier.
+["INFO" - 1:32:50 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:32:50 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:32:50 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-model.js",
+  "parser": "babel"
+}
+["ERROR" - 1:32:50 AM] Error formatting document.
+["ERROR" - 1:32:50 AM] Unexpected token, expected ";" (4:25)
+  2 | 
+  3 | function findByUserId() {
+> 4 |     const posts = await db("posts")
+    |                         ^
+  5 |     .leftJoin("users", "users.id", "posts.user_id")
+  6 |     .where("user_id", req.params.id)
+  7 |     .select("posts.id", "posts.contents", "users.username");
+SyntaxError: Unexpected token, expected ";" (4:25)
+  2 | 
+  3 | function findByUserId() {
+> 4 |     const posts = await db("posts")
+    |                         ^
+  5 |     .leftJoin("users", "users.id", "posts.user_id")
+  6 |     .where("user_id", req.params.id)
+  7 |     .select("posts.id", "posts.contents", "users.username");
+	at e (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/parser-babel.js:1:344)
+	at Object.parse (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/parser-babel.js:1:262513)
+	at Object.parse (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/index.js:11370:19)
+	at coreFormat (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/index.js:14784:25)
+	at format (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/index.js:15019:75)
+	at formatWithCursor (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/index.js:15035:12)
+	at /home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/index.js:51620:12
+	at Object.format (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/index.js:51640:12)
+	at t.default.<anonymous> (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/dist/extension.js:1:58458)
+	at Generator.next (<anonymous>)
+	at s (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/dist/extension.js:1:53285)
+["INFO" - 1:32:50 AM] Formatting completed in 23.975933ms.
+["INFO" - 1:33:44 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-model.js
+["INFO" - 1:33:44 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:33:44 AM] Using bundled version of prettier.
+["INFO" - 1:33:44 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:33:44 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:33:44 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-model.js",
+  "parser": "babel"
+}
+["INFO" - 1:33:44 AM] Formatting completed in 17.623935ms.
+["INFO" - 1:35:06 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 1:35:06 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:35:06 AM] Using bundled version of prettier.
+["INFO" - 1:35:06 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:35:06 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:35:06 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:35:07 AM] Formatting completed in 21.972769ms.
+["INFO" - 1:35:28 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-model.js
+["INFO" - 1:35:28 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:35:28 AM] Using bundled version of prettier.
+["INFO" - 1:35:28 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:35:28 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:35:28 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-model.js",
+  "parser": "babel"
+}
+["INFO" - 1:35:28 AM] Formatting completed in 22.101841ms.
+["INFO" - 1:35:35 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 1:35:35 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:35:35 AM] Using bundled version of prettier.
+["INFO" - 1:35:35 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:35:35 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:35:35 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:35:35 AM] Formatting completed in 19.959445ms.
+["INFO" - 1:36:06 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 1:36:06 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:36:06 AM] Using bundled version of prettier.
+["INFO" - 1:36:06 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:36:06 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:36:06 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:36:06 AM] Formatting completed in 26.368794ms.
+["INFO" - 1:37:46 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 1:37:46 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:37:46 AM] Using bundled version of prettier.
+["INFO" - 1:37:46 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:37:46 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:37:46 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["ERROR" - 1:37:46 AM] Error formatting document.
+["ERROR" - 1:37:46 AM] Unexpected token, expected "," (12:42)
+  10 |   try {
+  11 |       res.json(
+> 12 |  await postDB.findByUserId(req.params.id);
+     |                                          ^
+  13 |     );
+  14 |   } catch (err) {
+  15 |     next(err);
+SyntaxError: Unexpected token, expected "," (12:42)
+  10 |   try {
+  11 |       res.json(
+> 12 |  await postDB.findByUserId(req.params.id);
+     |                                          ^
+  13 |     );
+  14 |   } catch (err) {
+  15 |     next(err);
+	at e (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/parser-babel.js:1:344)
+	at Object.parse (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/parser-babel.js:1:262513)
+	at Object.parse (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/index.js:11370:19)
+	at coreFormat (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/index.js:14784:25)
+	at format (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/index.js:15019:75)
+	at formatWithCursor (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/index.js:15035:12)
+	at /home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/index.js:51620:12
+	at Object.format (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/node_modules/prettier/index.js:51640:12)
+	at t.default.<anonymous> (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/dist/extension.js:1:58458)
+	at Generator.next (<anonymous>)
+	at s (/home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/dist/extension.js:1:53285)
+["INFO" - 1:37:46 AM] Formatting completed in 18.286574ms.
+["INFO" - 1:37:48 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 1:37:48 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:37:48 AM] Using bundled version of prettier.
+["INFO" - 1:37:48 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:37:48 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:37:48 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:37:48 AM] Formatting completed in 20.794483ms.
+["INFO" - 1:37:50 AM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+["INFO" - 1:37:50 AM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.prettierignore
+["INFO" - 1:37:50 AM] Using bundled version of prettier.
+["INFO" - 1:37:50 AM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "babel"
+}
+["INFO" - 1:37:50 AM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:37:50 AM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js",
+  "parser": "babel"
+}
+["INFO" - 1:37:50 AM] Formatting completed in 14.906212ms.

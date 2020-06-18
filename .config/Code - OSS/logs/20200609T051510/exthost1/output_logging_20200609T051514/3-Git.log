@@ -1,0 +1,16 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/nuvallo/Documents/lambda/backend/projects/node-db2-project
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse nuvallo
+> git rev-parse --symbolic-full-name nuvallo@{u}
+> git rev-list --left-right nuvallo...refs/remotes/origin/nuvallo
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

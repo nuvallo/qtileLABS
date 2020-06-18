@@ -1,0 +1,7 @@
+file:///home/nuvallo/Documents/lambda/backend/projects/node-db3-project/data/config.js {"mtime":1591824699531,"ctime":1591824686904,"size":114,"etag":"3583mga9b3l","orphaned":false}
+const knex = require("knex");
+
+const config = require("../knexfile");
+
+module.exports = knex(config.development);
+

@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "editor.formatOnSave": true,
+    "deepcode.token": "8e2006cf19514f1f7686efa8abd22b9905993a8e4fe6f6a8862b5de3f6455c4d",
+    "files.associations": {
+        "*.py": "python"
+    }
+}

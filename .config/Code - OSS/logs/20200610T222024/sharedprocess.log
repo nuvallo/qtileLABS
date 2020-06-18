@@ -1,0 +1,26 @@
+[2020-06-10 22:20:28.334] [sharedprocess] [info] main {"machineId":"996df1f711fe74088bd78d9355330eff7bc963ece22cde7c9a71c1edabe0db1d","windowId":2}
+[2020-06-10 22:20:44.220] [sharedprocess] [info] Installing extension: equinusocio.vsc-material-theme
+[2020-06-10 22:20:44.536] [sharedprocess] [info] Downloaded extension: equinusocio.vsc-material-theme /tmp/2b0a6e92-7d18-4d3d-8755-72c20f518b70
+[2020-06-10 22:20:44.718] [sharedprocess] [info] Extracted extension to /home/nuvallo/.vscode-oss/extensions/.equinusocio.vsc-material-theme-32.6.0: equinusocio.vsc-material-theme
+[2020-06-10 22:20:44.718] [sharedprocess] [info] Renamed to /home/nuvallo/.vscode-oss/extensions/equinusocio.vsc-material-theme-32.6.0
+[2020-06-10 22:20:44.719] [sharedprocess] [info] Installation completed. equinusocio.vsc-material-theme
+[2020-06-10 22:20:44.881] [sharedprocess] [info] Installing extension: equinusocio.vsc-material-theme-icons
+[2020-06-10 22:20:44.881] [sharedprocess] [info] Installing extension: equinusocio.vsc-community-material-theme
+[2020-06-10 22:20:45.018] [sharedprocess] [info] Downloaded extension: equinusocio.vsc-material-theme-icons /tmp/d1e5ba00-4947-4271-a3c3-223b540a1744
+[2020-06-10 22:20:45.019] [sharedprocess] [info] Downloaded extension: equinusocio.vsc-community-material-theme /tmp/821b47c5-6fb6-446d-8b6f-448258bf7ee7
+[2020-06-10 22:20:45.066] [sharedprocess] [info] Extracted extension to /home/nuvallo/.vscode-oss/extensions/.equinusocio.vsc-community-material-theme-1.4.1: equinusocio.vsc-community-material-theme
+[2020-06-10 22:20:45.066] [sharedprocess] [info] Renamed to /home/nuvallo/.vscode-oss/extensions/equinusocio.vsc-community-material-theme-1.4.1
+[2020-06-10 22:20:45.067] [sharedprocess] [info] Installation completed. equinusocio.vsc-community-material-theme
+[2020-06-10 22:20:45.074] [sharedprocess] [info] Extensions installed successfully: equinusocio.vsc-community-material-theme
+[2020-06-10 22:20:46.120] [sharedprocess] [info] Extracted extension to /home/nuvallo/.vscode-oss/extensions/.equinusocio.vsc-material-theme-icons-1.1.4: equinusocio.vsc-material-theme-icons
+[2020-06-10 22:20:46.121] [sharedprocess] [info] Renamed to /home/nuvallo/.vscode-oss/extensions/equinusocio.vsc-material-theme-icons-1.1.4
+[2020-06-10 22:20:46.121] [sharedprocess] [info] Installation completed. equinusocio.vsc-material-theme-icons
+[2020-06-10 22:20:46.133] [sharedprocess] [info] Extensions installed successfully: equinusocio.vsc-material-theme-icons
+[2020-06-10 22:20:46.134] [sharedprocess] [info] Extensions installed successfully: equinusocio.vsc-material-theme
+[2020-06-10 22:20:58.300] [sharedprocess] [info] Uninstalling extension: equinusocio.vsc-material-theme
+[2020-06-10 22:20:58.301] [sharedprocess] [info] Uninstalling extension: equinusocio.vsc-community-material-theme
+[2020-06-10 22:20:58.302] [sharedprocess] [info] Uninstalling extension: equinusocio.vsc-material-theme-icons
+[2020-06-10 22:20:58.352] [sharedprocess] [info] Successfully uninstalled extension: equinusocio.vsc-community-material-theme
+[2020-06-10 22:20:58.358] [sharedprocess] [info] Successfully uninstalled extension: equinusocio.vsc-material-theme-icons
+[2020-06-10 22:20:58.446] [sharedprocess] [info] Successfully uninstalled extension: equinusocio.vsc-material-theme
+[2020-06-10 22:21:08.346] [sharedprocess] [info] Starting to clean up unused language packs.

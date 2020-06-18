@@ -1,0 +1,2 @@
+[Error  - 05:21:47.606] Migrating token failed: Error: The name org.freedesktop.secrets was not provided by any .service files
+[Error  - 05:21:47.675] Getting token failed: Error: The name org.freedesktop.secrets was not provided by any .service files

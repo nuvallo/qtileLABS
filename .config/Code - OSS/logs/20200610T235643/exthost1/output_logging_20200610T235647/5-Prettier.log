@@ -1,0 +1,128 @@
+["INFO" - 11:56:47 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 11:56:47 PM] Extension Version: 5.0.0.
+["INFO" - 11:56:47 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 11:56:47 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 11:57:52 PM] Formatting /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/README.md
+["INFO" - 11:57:52 PM] Using ignore file (if present) at /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/.prettierignore
+["INFO" - 11:57:52 PM] Using bundled version of prettier.
+["INFO" - 11:57:52 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "markdown"
+}
+["INFO" - 11:57:52 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:57:52 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/README.md",
+  "parser": "markdown"
+}
+["INFO" - 11:57:52 PM] Formatting completed in 65.848124ms.
+["INFO" - 11:58:54 PM] Formatting /home/nuvallo/.config/Code - OSS/User/keybindings.json
+["INFO" - 11:58:54 PM] Using ignore file (if present) at undefined
+["INFO" - 11:58:54 PM] Using bundled version of prettier.
+["INFO" - 11:58:54 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 11:58:54 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:58:54 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/.config/Code - OSS/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 11:58:54 PM] Formatting completed in 26.073831ms.
+["INFO" - 11:59:08 PM] Formatting /home/nuvallo/.config/Code - OSS/User/keybindings.json
+["INFO" - 11:59:08 PM] Using ignore file (if present) at undefined
+["INFO" - 11:59:08 PM] Using bundled version of prettier.
+["INFO" - 11:59:08 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 11:59:08 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 11:59:08 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/nuvallo/.config/Code - OSS/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 11:59:08 PM] Formatting completed in 26.693514ms.

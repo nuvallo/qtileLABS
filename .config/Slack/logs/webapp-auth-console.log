@@ -1,0 +1,20 @@
+[06/08/20, 04:30:45:999] info: 
+╔══════════════════════════════════════════════════════════════════════════════╗
+║      Slack 4.4.3, linux 5.6.15-arch1-1 on x64 at 06/08/20, 04:30:45:999      ║
+╚══════════════════════════════════════════════════════════════════════════════╝ 
+[06/08/20, 04:30:45:999] info: Configured logger via 
+{
+  "identifierOverride": "webapp-auth-console",
+  "logLevel": "info",
+  "numberOfInstances": 3
+}
+[06/08/20, 04:30:45:999] info: Predefined values for process 
+{
+  "NODE_ENV": "production",
+  "platform": "linux",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.4.3",
+  "PACKAGE_MANIFEST.commit": "b4c6ab2",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}

@@ -1,0 +1,25 @@
+file:///home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/index.js {"mtime":1591749839283,"ctime":1591741361696,"size":582,"etag":"35803kqrfio","orphaned":false}
+const express = require("express");
+const helmet = require("helmet");
+const welcomeRouter = require("./welcome/welcome-router");
+const userRouter = require("./users/user-router");
+
+const server = express();
+const port = process.env.PORT || 4000;
+
+server.use(helmet());
+server.use(express.json());
+
+server.use("/", welcomeRouter);
+server.use("/users", userRouter);
+
+server.use((err, req, res, next) => {
+  console.log(err);
+  res.status(500).json({
+    message: "Something went wrong",
+  });
+});
+
+server.listen(port, () => {
+  console.log(`Running at http://localhost:${port}`);
+});

@@ -1,0 +1,561 @@
+[2020-06-09 22:22:51.471] [exthost] [info] extension host started
+[2020-06-09 22:22:51.498] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-06-09 22:22:51.498] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-06-09 22:22:51.502] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-06-09 22:22:51.502] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-06-09 22:22:51.516] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-06-09 22:22:51.516] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-06-09 22:22:51.541] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-06-09 22:22:51.541] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github-authentication/dist/extension.js
+[2020-06-09 22:22:51.568] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-06-09 22:22:51.568] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-06-09 22:22:51.573] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-06-09 22:22:51.573] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-06-09 22:22:51.575] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-06-09 22:22:51.575] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/vscode-account/dist/extension.js
+[2020-06-09 22:22:51.581] [exthost] [info] ExtensionService#_doActivateExtension deepcode.deepcode {"startup":true,"extensionId":{"value":"deepcode.deepcode","_lower":"deepcode.deepcode"},"activationEvent":"*"}
+[2020-06-09 22:22:51.581] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/nuvallo/.vscode-oss/extensions/deepcode.deepcode-2.1.1/out/extension.js
+[2020-06-09 22:22:51.681] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-06-09 22:22:51.681] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/nuvallo/.vscode-oss/extensions/esbenp.prettier-vscode-5.0.0/dist/extension
+[2020-06-09 22:22:51.762] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-06-09 22:22:51.762] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/nuvallo/.vscode-oss/extensions/pkief.material-icon-theme-4.1.0/dist/extension
+[2020-06-09 22:22:51.770] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-06-09 22:22:51.770] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/nuvallo/.vscode-oss/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-06-09 22:22:52.310] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2020-06-09 22:22:52.310] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/nuvallo/.vscode-oss/extensions/vscodevim.vim-1.14.5/out/extension
+[2020-06-09 22:22:52.413] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-06-09 22:22:52.413] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/npm/dist/main
+[2020-06-09 22:22:52.579] [exthost] [info] eager extensions activated
+[2020-06-09 22:23:47.194] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2020-06-09 22:23:47.194] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2020-06-09 22:27:38.358] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-06-09 22:27:38.358] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/extension-editing/dist/extension
+[2020-06-09 22:32:38.446] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2020-06-09 22:32:38.446] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/markdown-language-features/dist/extension
+[2020-06-09 23:20:14.767] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"extensionId":{"value":"vscode.grunt","_lower":"vscode.grunt"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-06-09 23:20:14.767] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/grunt/dist/main
+[2020-06-09 23:20:14.773] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"extensionId":{"value":"vscode.gulp","_lower":"vscode.gulp"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-06-09 23:20:14.773] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/gulp/dist/main
+[2020-06-09 23:20:14.776] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"extensionId":{"value":"vscode.jake","_lower":"vscode.jake"},"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-06-09 23:20:14.776] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/jake/dist/main
+[2020-06-10 00:48:01.024] [exthost] [info] [vscode.typescript-language-features] UNSAVE result from 'resolveCompletionItem', extension SHOULD NOT change any of: additionalTextEdits, or command
+[2020-06-10 00:51:54.624] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-10 00:51:54.625] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-10 00:52:09.875] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-10 00:52:09.876] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-10 00:52:11.531] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-10 00:52:11.532] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-10 00:52:32.748] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-10 00:52:32.748] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-10 00:52:40.982] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-10 00:52:40.982] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-10 00:52:41.554] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-10 00:52:41.554] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-10 00:54:19.258] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-10 00:54:19.258] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-10 00:54:19.677] [exthost] [warning] INVALID text edit -> must have at least a label
+[2020-06-10 00:55:27.867] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-10 00:55:27.869] [exthost] [error] Error: DisposableStore is missing...
+	at U._convertCompletionItem (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:677:574)
+	at U.resolveCompletionItem (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:677:354)
+[2020-06-10 01:03:43.776] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-06-10 01:03:43.777] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/extension
+[2020-06-10 01:03:43.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-06-10 01:03:43.794] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2020-06-10 01:06:47.375] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-10 01:06:47.375] [exthost] [error] Error: <syntax> TypeScript Server Error (3.8.3)
+Debug Failure. False expression: Expected line to be non-zero
+Error: Debug Failure. False expression: Expected line to be non-zero
+    at failIfInvalidLocation (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:138899:22)
+    at ScriptInfo.positionToLineOffset (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:138872:17)
+    at toProtocolTextSpan (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146077:35)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145608:68
+    at Array.map (<anonymous>)
+    at IOSession.Session.toLocationNavigationTree (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145608:39)
+    at IOSession.Session.getNavigationTree (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145619:32)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:144481:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-10 01:21:24.918] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-10 01:21:24.919] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-10 01:21:26.485] [exthost] [warning] INVALID text edit -> must have at least a label
+[2020-06-10 01:21:35.566] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-10 01:21:35.566] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-10 01:21:35.779] [exthost] [warning] INVALID text edit -> must have at least a label
+[2020-06-10 01:21:42.966] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-06-10 01:21:42.966] [exthost] [error] Error: <semantic> TypeScript Server Error (3.8.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:71102:29)
+    at emitNodeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95676:51)
+    at emitList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:95555:13)
+    at Object.writeList (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:92891:13)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119315:29
+    at Object.mapToDisplayParts (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:107201:13)
+    at itemInfoForParameters (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119312:41)
+    at getSignatureHelpItem (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119278:95)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:119251:36)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118843:23
+    at Object.runWithCancellationToken (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:34552:28)
+    at Object.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:118841:32)
+    at Proxy.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:135509:37)
+    at IOSession.Session.getSignatureHelpItems (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145510:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:144404:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:145994:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146003:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:146027:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:147342:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:52449)
+	at e.dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:222369)
+	at e.dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:221287)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:220763
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at t.Reader.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229425)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:229073)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-06-10 01:21:43.468] [exthost] [warning] INVALID text edit -> must have at least a label

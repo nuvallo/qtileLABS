@@ -1,0 +1,3 @@
+2020/06/10-04:53:45.982 3281 Reusing MANIFEST /home/nuvallo/.config/Notion/Partitions/notion/IndexedDB/notion_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/10-04:53:45.982 3281 Recovering log #3
+2020/06/10-04:53:45.985 3281 Reusing old log /home/nuvallo/.config/Notion/Partitions/notion/IndexedDB/notion_www.notion.so_0.indexeddb.leveldb/000003.log 

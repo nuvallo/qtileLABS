@@ -1,0 +1,111 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :index.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/index.js
+> git cat-file -s bec215a88881b5e7a02ee6c8ad62174d374617d9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :package.json
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/package.json
+> git cat-file -s 33291aa559ec930d72a962adf42b889b957028a5
+> git show :index.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/index.js
+> git cat-file -s bec215a88881b5e7a02ee6c8ad62174d374617d9
+> git show :package.json
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/package.json
+> git cat-file -s 33291aa559ec930d72a962adf42b889b957028a5
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/package.json
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/package.json
+> git show :index.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/index.js
+> git cat-file -s bec215a88881b5e7a02ee6c8ad62174d374617d9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/routers/animals.js
+> git show :routers/animals.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/routers/animals.js
+> git cat-file -s 8f206270d24e671065d4694b443168b7fdf31b5d
+> git show :routers/species.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/routers/species.js
+> git cat-file -s 1eb25c86ca738c29ddde9d0a444e61ff4663da47
+> git show :routers/zoos.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/routers/zoos.js
+> git cat-file -s 64776529d7fc6871b92f33b49f529b09485f3c58
+> git show :README.md
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/README.md
+> git cat-file -s 454887ced0a8ccc18373c53a64947f37e2aaea4e
+> git show :index.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/index.js
+> git cat-file -s bec215a88881b5e7a02ee6c8ad62174d374617d9
+> git show :README.md
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/README.md
+> git cat-file -s 454887ced0a8ccc18373c53a64947f37e2aaea4e
+> git show :index.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/index.js
+> git cat-file -s bec215a88881b5e7a02ee6c8ad62174d374617d9
+> git show :routers/species.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/routers/species.js
+> git cat-file -s 1eb25c86ca738c29ddde9d0a444e61ff4663da47
+> git show :routers/zoos.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/routers/zoos.js
+> git cat-file -s 64776529d7fc6871b92f33b49f529b09485f3c58
+> git show :routers/animals.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/routers/animals.js
+> git cat-file -s 8f206270d24e671065d4694b443168b7fdf31b5d
+> git show :README.md
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/README.md
+> git cat-file -s 454887ced0a8ccc18373c53a64947f37e2aaea4e
+> git show :README.md
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db4-guided/README.md
+> git cat-file -s 454887ced0a8ccc18373c53a64947f37e2aaea4e

@@ -1,0 +1,1173 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :index.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/index.js
+> git cat-file -s 804c7733f07fb6b8876937a136000065c53c50f6
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :nodes.md
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git rev-list --count working.. -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+fatal: bad revision 'working..'
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+> git check-ignore -v -z --stdin
+> git show :users/user-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js
+> git cat-file -s 0b6f3c01bc8a9d24435921126c8f7fd757535d4f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :index.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/index.js
+> git cat-file -s 804c7733f07fb6b8876937a136000065c53c50f6
+> git show :users/user-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js
+> git cat-file -s 0b6f3c01bc8a9d24435921126c8f7fd757535d4f
+> git show :nodes.md
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+> git show :index.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/index.js
+> git cat-file -s 804c7733f07fb6b8876937a136000065c53c50f6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :posts/posts-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :users/user-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js
+> git cat-file -s 0b6f3c01bc8a9d24435921126c8f7fd757535d4f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :posts/posts-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :users/user-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js
+> git cat-file -s 0b6f3c01bc8a9d24435921126c8f7fd757535d4f
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js
+> git show :posts/posts-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :posts/posts-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :index.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/index.js
+> git cat-file -s 804c7733f07fb6b8876937a136000065c53c50f6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :posts/posts-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :posts/posts-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :users/user-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js
+> git cat-file -s 0b6f3c01bc8a9d24435921126c8f7fd757535d4f
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/users/user-router.js
+> git show :posts/posts-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :log
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/log
+> git show :posts/posts-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+> git show :log
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/log
+> git show :posts/posts-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+> git show :log
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/log
+> git show :posts/posts-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :posts/posts-model.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-model.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :posts/posts-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+> git show :posts/posts-model.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-model.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :posts/posts-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :posts/posts-model.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-model.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :posts/posts-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/lib/code/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/lib/code/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/lib/code/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :index.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/index.js
+> git cat-file -s 804c7733f07fb6b8876937a136000065c53c50f6
+> git show :nodes.md
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+> git show :index.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/index.js
+> git cat-file -s 804c7733f07fb6b8876937a136000065c53c50f6
+> git show :posts/posts-router.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-router.js
+> git show :posts/posts-model.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-model.js
+> git show :nodes.md
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+> git show :posts/posts-model.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/posts/posts-model.js
+> git show :nodes.md
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/nodes.md
+> git show :index.js
+> git ls-files --stage -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/index.js
+> git cat-file -s 804c7733f07fb6b8876937a136000065c53c50f6
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/nuvallo/Documents/lambda/backend/guided/node-db3-guided/index.js
