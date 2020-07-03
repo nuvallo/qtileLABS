@@ -1,29 +1,3 @@
-# Copyright (c) 2010 Aldo Cortesi
-# Copyright (c) 2010, 2014 dequis
-# Copyright (c) 2012 Randall Ma
-# Copyright (c) 2012-2014 Tycho Andersen
-# Copyright (c) 2012 Craig Barnes
-# Copyright (c) 2013 horsik
-# Copyright (c) 2013 Tao Sauvage
-#
-# Permission is hereby granted, free of charge, to any person obtaining a copy
-# of this software and associated documentation files (the "Software"), to deal
-# in the Software without restriction, including without limitation the rights
-# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-# copies of the Software, and to permit persons to whom the Software is
-# furnished to do so, subject to the following conditions:
-#
-# The above copyright notice and this permission notice shall be included in
-# all copies or substantial portions of the Software.
-#
-# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-# SOFTWARE.
-
 from libqtile.config import Key, Screen, Group, Drag, Click
 from libqtile.lazy import lazy
 from libqtile import layout, bar, widget
@@ -33,8 +7,24 @@ mod = "mod4" # Windows key
 
 keys = [
     # Switch between windows in current stack pane
-    Key([mod], "k", lazy.layout.down()),
-    Key([mod], "j", lazy.layout.up()),
+    Key([mod], "j", lazy.layout.down()),
+    Key([mod], "k", lazy.layout.up()),
+    Key([mod], "h", lazy.layout.left()),
+    Key([mod], "l", lazy.layout.right()),
+    Key([mod, "shift"], "j", lazy.layout.shuffle_down()),
+    Key([mod, "shift"], "k", lazy.layout.shuffle_up()),
+    Key([mod, "shift"], "h", lazy.layout.shuffle_left()),
+    Key([mod, "shift"], "l", lazy.layout.shuffle_right()),
+    Key([mod, "mod1"], "j", lazy.layout.flip_down()),
+    Key([mod, "mod1"], "k", lazy.layout.flip_up()),
+    Key([mod, "mod1"], "h", lazy.layout.flip_left()),
+    Key([mod, "mod1"], "l", lazy.layout.flip_right()),
+    Key([mod, "control"], "j", lazy.layout.grow_down()),
+    Key([mod, "control"], "k", lazy.layout.grow_up()),
+    Key([mod, "control"], "h", lazy.layout.grow_left()),
+    Key([mod, "control"], "l", lazy.layout.grow_right()),
+    Key([mod, "shift"], "n", lazy.layout.normalize()),
+    Key([mod], "Return", lazy.layout.toggle_split()),
 
     # Move windows up or down in current stack
     Key([mod, "shift"], "k", lazy.layout.shuffle_down()),
@@ -45,13 +35,15 @@ keys = [
     
     # Window spawns
     Key([mod], "Return", lazy.spawn("st")),
-    Key([mod, "shift"], "Return", lazy.spawn('pcmanfm')),
+    Key([mod, "shift"], "Return", lazy.spawn('thunar')),
     Key([mod], "s", lazy.spawn('slack')),
     Key([mod], "w", lazy.spawn('firefox')),
-    Key([mod], "e", lazy.spawn('code-oss')),
+    Key([mod], "e", lazy.spawn('code')),
+    Key([mod], "p", lazy.spawn('leafpad')),
+    Key([mod], "n", lazy.spawn('notion-app')),
 
     #dmenu
-    Key([mod], "d", lazy.spawn("dmenu_run -i -nb '#191919' -nf '#9999ff' -sb '#9999ff' -sf '#191919' -fn NotoMonoRegular:bold:pixelsize=14")),
+    Key([mod], "d", lazy.spawn("dmenu_run -i -nb '#191919' -nf '#FFA500' -sb '#FFA500' -sf '#191919' -fn NotoMonoRegular:bold:pixelsize=14")),
 
     # Toggle between different layouts as defined below
     Key([mod], "Tab", lazy.next_layout()),
@@ -82,8 +74,8 @@ for i in groups:
 colors = ['#008080', '#333333', '#FFA500', '#000000', '#F855B7', '#632249']
 
 layouts = [
-    layout.Tile(border_focus=colors[2], border_normal=colors[1], border_width=2, margin=5),
-    layout.Stack(num_stacks=2, border_focus=colors[2], border_normal=colors[1], border_width=2, margin=5),
+    #layout.Tile(border_focus=colors[2], border_normal=colors[1], border_width=2, margin=5),
+    # layout.Stack(num_stacks=2, border_focus=colors[2], border_normal=colors[1], border_width=2, margin=5),
     layout.Bsp(border_focus=colors[2], border_normal=colors[1], border_width=2, margin=5),
     layout.Max(border_focus=colors[2], border_normal=colors[1], fullscreen_border_width=2, margin=5),
     layout.Matrix(border_focus=colors[2], border_normal=colors[1], border_width=2, margin=5),
@@ -106,6 +98,16 @@ screens = [
                 widget.Sep(padding=2, linewidth=0),
                 widget.GroupBox(active = colors[4], inactive = colors[0], background = colors[3], this_current_screen_border = colors[2]),
                 widget.Prompt(),
+                widget.WindowName(foreground=colors[2]),
+                widget.Clock(format='%H:%M', foreground = colors[2]),
+            ],
+            24,
+        ),
+    
+        bottom=bar.Bar(
+            [
+                
+                widget.Sep(padding=2, linewidth=0),
                 widget.WindowName(foreground = colors[2]),
                 widget.TextBox("Nuvallo", name="nuvallo", foreground = colors[0]),
                 widget.Sep(padding=10, foreground = colors[4]),
@@ -115,10 +117,12 @@ screens = [
                 widget.TextBox('Volume: ', foreground = colors[2]),
                 widget.PulseVolume(foreground = colors[0]),
                 widget.Sep(padding=10, foreground = colors[4]),
-                widget.Clock(format='%H:%M', foreground = colors[2]),
                 widget.Sep(padding=10, linewidth=0),
-                
-               
+                widget.TextBox('Temperature: ', foreground = colors[2]),
+                widget.ThermalSensor(foreground=colors[2], padding = 5),
+                widget.Sep(padding=10, foreground = colors[4]),
+                widget.Systray(foreground=colors[2], padding = 5),
+                widget.Sep(padding=10, linewidth=0),
             ],
             24,
         ),
