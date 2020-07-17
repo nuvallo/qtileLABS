@@ -73,12 +73,12 @@ for i in groups:
 
 # colors
 #          Orange         Grey        
-colors = [ '#FFA500', '#333333', '#67C7EB', '#000000', '#F855B7', '#632249']
+colors = [ '#cccccc', '#333333', '#67C7EB', '#000000', '#F855B7', '#632249']
 
 layouts = [
     #layout.Tile(border_focus=colors[2], border_normal=colors[1], border_width=2, margin=5),
     # layout.Stack(num_stacks=2, border_focus=colors[2], border_normal=colors[1], border_width=2, margin=5),
-    layout.Bsp(border_focus=colors[0], border_normal=colors[1], border_width=3, margin=5),
+    layout.Bsp(border_focus=colors[2], border_normal=colors[1], border_width=3, margin=5),
     layout.Max(border_focus=colors[2], border_normal=colors[1], fullscreen_border_width=2, margin=5),
     layout.Matrix(border_focus=colors[2], border_normal=colors[1], border_width=2, margin=5),
 ]
@@ -87,6 +87,7 @@ widget_defaults = dict(
     font='sans',
     fontsize=12,
     padding=3,
+    background='#000000'
 )
 extension_defaults = widget_defaults.copy()
 
@@ -98,36 +99,23 @@ screens = [
         top=bar.Bar(
             [
                 widget.Sep(padding=2, linewidth=0),
-                widget.GroupBox(active = colors[2], inactive = colors[5], background = colors[3], this_current_screen_border = colors[0]),
+                widget.GroupBox(opacity=1, active = colors[0], inactive = colors[1], background = colors[3], highlight_method='line', this_current_screen_border = colors[2], borderwidth=2,  disable_drag=True, hide_unused=True,),
                 widget.Prompt(),
-                widget.WindowName(foreground=colors[0]),
-                widget.Clock(format='%H:%M', foreground = colors[2]),
-            ],
-            24,
-        ),
-    
-        bottom=bar.Bar(
-            [
-                
-                widget.Sep(padding=2, linewidth=0),
-                widget.WindowName(foreground = colors[0]),
-                widget.TextBox("Nuvallo", name="nuvallo", foreground = colors[0]),
-                widget.Sep(padding=10, foreground = colors[4]),
+                widget.WindowName(foreground=colors[2]),
                 widget.TextBox('Battery: ', foreground = colors[2]),
                 widget.Battery(format="{percent:2.0%}", foreground = colors[0]),
-                widget.Sep(padding=10, foreground = colors[4]),
+                widget.Sep(padding=10, linewidth=4, size_percent=20, foreground = colors[1]),
                 widget.TextBox('Volume: ', foreground = colors[2]),
                 widget.PulseVolume(foreground = colors[0]),
-                widget.Sep(padding=10, foreground = colors[4]),
-                widget.TextBox('Temperature: ', foreground = colors[0]),
-                widget.ThermalSensor(foreground=colors[2], padding = 5),
-                widget.Sep(padding=10, foreground = colors[4]),
-                widget.Systray(foreground=colors[2], padding = 5),
-                widget.Sep(padding=10, linewidth=0),
+                widget.Sep(padding=10, linewidth=4, size_percent=20, foreground = colors[1]),
+                widget.TextBox('Temperature: ', foreground = colors[2]),
+                widget.ThermalSensor(foreground=colors[0], padding = 5),
+                widget.Sep(padding=10, linewidth=4, size_percent=20, foreground = colors[1]),
+                widget.Clock(format='%H:%M', foreground = colors[2]),
             ],
-            24,
+            size=20,
         ),
-        wallpaper='~/.config/qtile/wallpapers/blue.jpg',
+        wallpaper='~/.config/qtile/wallpapers/gray.jpg',
         wallpaper_mode='fill',
     ),
 ]
@@ -145,7 +133,7 @@ dgroups_key_binder = None
 dgroups_app_rules = []  # type: List
 main = None
 follow_mouse_focus = True
-bring_front_click = False
+bring_front_click = True
 cursor_warp = False
 floating_layout = layout.Floating(float_rules=[
     # Run the utility of `xprop` to see the wm class and name of an X client.
@@ -167,8 +155,7 @@ floating_layout = layout.Floating(float_rules=[
 auto_fullscreen = True
 focus_on_window_activation = "smart"
 
-def autostart():
-    lazy.spawn('xcompmgr')
+
 
 
 # XXX: Gasp! We're lying here. In fact, nobody really uses or cares about this
