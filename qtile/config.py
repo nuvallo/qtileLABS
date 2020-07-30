@@ -36,23 +36,24 @@ keys = [
     # Window spawns
     Key([mod], "Return", lazy.spawn("st")),
     Key([mod, "shift"], "Return", lazy.spawn('thunar')),
-    Key([mod], "s", lazy.spawn('slack')),
+    Key([mod], "c", lazy.spawn('slack')),
     Key([mod], "w", lazy.spawn('firefox')),
     Key([mod], "e", lazy.spawn('code')),
     Key([mod], "p", lazy.spawn('leafpad')),
     Key([mod], "n", lazy.spawn('notion-app')),
     Key([mod], "v", lazy.spawn('st alsamixer')),
+    Key([mod], "s", lazy.spawn('xfce4-screenshooter')),
 
     #dmenu
     Key([mod], "d", lazy.spawn("dmenu_run -i -nb '#191919' -nf '#FFA500' -sb '#FFA500' -sf '#191919' -fn NotoMonoRegular:bold:pixelsize=14")),
 
     # Toggle between different layouts as defined below
     Key([mod], "Tab", lazy.next_layout()),
-    Key([mod], "q", lazy.window.kill()),
-    Key([mod], "f", lazy.window.fullscreen()),
+    Key([mod, "shift"], "c", lazy.window.kill()),
+    Key([mod, "shift"], "f", lazy.window.fullscreen()),
 
     Key([mod, "control"], "r", lazy.restart()),
-    Key([mod, "shift"], "x", lazy.shutdown()),
+    Key([mod, "shift"], "q", lazy.shutdown()),
     Key([mod], "r", lazy.spawncmd()),
 ]
 
@@ -78,10 +79,11 @@ colors = [ '#FFA500', '#333333', '#67C7EB', '#000000', '#F855B7', '#632249']
 layouts = [
     #layout.Tile(border_focus=colors[2], border_normal=colors[1], border_width=2, margin=5),
     # layout.Stack(num_stacks=2, border_focus=colors[2], border_normal=colors[1], border_width=2, margin=5),
-    layout.Bsp(border_focus=colors[0], border_normal=colors[1], border_width=3, margin=5),
-    layout.Max(border_focus=colors[2], border_normal=colors[1], fullscreen_border_width=2, margin=5),
-    layout.Matrix(border_focus=colors[2], border_normal=colors[1], border_width=2, margin=5),
+    layout.Bsp(border_focus=colors[0], border_normal=colors[1], border_width=1, margin=2),
+    layout.Max(border_focus=colors[2], border_normal=colors[1], fullscreen_border_width=1, margin=5),
+    layout.Matrix(border_focus=colors[2], border_normal=colors[1], border_width=1, margin=5),
 ]
+
 
 widget_defaults = dict(
     font='sans',
@@ -98,12 +100,14 @@ screens = [
         top=bar.Bar(
             [
                 widget.Sep(padding=2, linewidth=0),
-                widget.GroupBox(active = colors[2], inactive = colors[5], background = colors[3], this_current_screen_border = colors[0]),
+                widget.GroupBox(active = colors[2], inactive = colors[5], background = colors[3], this_current_screen_border = colors[0], highlight_method='line', borderwidth=2,  disable_drag=True, hide_unused=True,),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
                 widget.Prompt(),
                 widget.WindowName(foreground=colors[0]),
-                widget.Clock(format='%H:%M', foreground = colors[2]),
+                widget.Clock(format='%H:%M', foreground = colors[4]),
             ],
-            24,
+            20,
         ),
     
         bottom=bar.Bar(
@@ -112,20 +116,66 @@ screens = [
                 widget.Sep(padding=2, linewidth=0),
                 widget.WindowName(foreground = colors[0]),
                 widget.TextBox("Nuvallo", name="nuvallo", foreground = colors[0]),
-                widget.Sep(padding=10, foreground = colors[4]),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
                 widget.TextBox('Battery: ', foreground = colors[2]),
                 widget.Battery(format="{percent:2.0%}", foreground = colors[0]),
-                widget.Sep(padding=10, foreground = colors[4]),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
                 widget.TextBox('Volume: ', foreground = colors[2]),
                 widget.PulseVolume(foreground = colors[0]),
-                widget.Sep(padding=10, foreground = colors[4]),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
                 widget.TextBox('Temperature: ', foreground = colors[0]),
                 widget.ThermalSensor(foreground=colors[2], padding = 5),
-                widget.Sep(padding=10, foreground = colors[4]),
-                widget.Systray(foreground=colors[2], padding = 5),
-                widget.Sep(padding=10, linewidth=0),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
+                widget.Systray(foreground=colors[2], padding = 2),
+                
             ],
-            24,
+            20,
+        ),
+        wallpaper='~/.config/qtile/wallpapers/allBlack.png',
+        wallpaper_mode='fill',
+    ),
+     Screen(
+        top=bar.Bar(
+            [
+                widget.Sep(padding=2, linewidth=0),
+                widget.GroupBox(active = colors[2], inactive = colors[5], background = colors[3], this_current_screen_border = colors[0], highlight_method='line', borderwidth=2,  disable_drag=True, hide_unused=True,),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
+                widget.Prompt(),
+                widget.WindowName(foreground=colors[0]),
+                widget.Clock(format='%H:%M', foreground = colors[4]),
+            ],
+            20,
+        ),
+    
+        bottom=bar.Bar(
+            [
+                
+                widget.Sep(padding=2, linewidth=0),
+                widget.WindowName(foreground = colors[0]),
+                widget.TextBox("Nuvallo", name="nuvallo", foreground = colors[0]),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
+                widget.TextBox('Battery: ', foreground = colors[2]),
+                widget.Battery(format="{percent:2.0%}", foreground = colors[0]),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
+                widget.TextBox('Volume: ', foreground = colors[2]),
+                widget.PulseVolume(foreground = colors[0]),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
+                widget.TextBox('Temperature: ', foreground = colors[0]),
+                widget.ThermalSensor(foreground=colors[2], padding = 5),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
+                widget.Sep(padding=10, linewidth=2, size_percent=10, foreground = colors[4]),
+                widget.Systray(foreground=colors[2], padding = 2),
+                
+            ],
+            20,
         ),
         wallpaper='~/.config/qtile/wallpapers/blue.jpg',
         wallpaper_mode='fill',
@@ -168,7 +218,7 @@ auto_fullscreen = True
 focus_on_window_activation = "smart"
 
 def autostart():
-    lazy.spawn('xcompmgr')
+    lazy.spawn('st compton')
 
 
 # XXX: Gasp! We're lying here. In fact, nobody really uses or cares about this
